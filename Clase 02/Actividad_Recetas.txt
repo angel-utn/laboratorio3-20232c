@@ -1,0 +1,15 @@
+Elaborar una base de datos para una app que sugiere recetas de cocina.
+
+La base debe poder registrar los distintos platillos de los cuales se necesita guardar el nombre,
+el tiempo de cocción y las calorías por porción. También debe registrar la dificultad del platillo
+representado en una escala numérica de 0 a 5 con expresión decimal de 1 dígito.
+Cada plato está compuesto por ingredientes. Los ingredientes genéricamente registran su nombre,
+si es vegano, si es vegetariano y si es apto para celíacos.
+Por último, es necesario registrar las recetas. Cada receta es la composición de un platillo 
+y sus distintos ingredientes. Es necesario saber la cantidad y unidad de medida de cada
+ingrediente en el platillo.
+
+Platos OK
+Recetas OK
+UnidadesDeMedida OK
+Ingredientes    OK
